@@ -9,4 +9,4 @@ Un bot de discord para los servers de la USAL. Diversas funcionalidades, etc.
 5. Ejecuten el código con su IDE favorito. (El mío es PyCharms de JetBrains)
 
 ## Version 0.0.1b
-# Creator: Fabrizio De Stena Primerano
+# Project Leader: Fabrizio De Stena Primerano
