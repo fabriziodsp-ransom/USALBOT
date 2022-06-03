@@ -90,4 +90,4 @@ async def on_ready():
     game = discord.Game("#USALizate\n/ayuda")
     await bot.change_presence(status=discord.Status.idle, activity=game)
 
-bot.run('OTgxNjEyMzY0MDA2ODIxOTg4.G8XiUR.9Yh3W8JTkAgBAc-dZqADWUbXhGQk6apZNhdI8E')
+bot.run('token')
